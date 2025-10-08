@@ -18,3 +18,8 @@ boton.addEventListener("click", function() {
         resultado.innerText = "Producto no encontrado";
     }
 });
+
+
+// Comentario de prueba para GitHub
+// Otro comentario de prueba para GitHub
+// Comentario final para GitHub
